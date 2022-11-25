@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Stan Kan, a year 3 data science student from the Hong Kong University of Science and Technology.
+- 👋 Hi, I’m Stan Kan, a final year data science student from the Hong Kong University of Science and Technology.
 - 👀 I’m interested in Statistical Modeling and Machnine Learning.
 - 🌱 I’m currently learning Reinforcement Learning and RNN.
-- 💞️ I’m looking to collaborate on Machine Learning PRoject
-- 📫 You can reach me by emailing me.
+- 💞️ I’m looking to collaborate on Machine Learning Project
+- 📫 You can reach me by emailing me: wokan0603@gmail.com
